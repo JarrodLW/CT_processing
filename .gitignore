@@ -2,4 +2,9 @@ __pycache__/
 venv/
 .idea/
 Data/
-
+*.json
+*.hdf
+*.nxs
+*.hdf5
+*.hdf
+*.nxs
